@@ -3,6 +3,7 @@ let colorWord = document.getElementsByClassName('color_word')[i].innerText;
 let arrayColorWord = [];
 arrayColorWord.push(colorWord)
 console.log(arrayColorWord)
+console.log(colorWord)
 }
 
 
