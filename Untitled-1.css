@@ -1,0 +1,130 @@
+body{
+    background-image: url(./woodbg.jpg);
+    background-size:cover;
+    
+    
+}
+.default {
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+}
+
+h1 {
+    font-size: 2em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+#Show_more{
+    border:none;
+    color: black;
+    padding: 10px 30px 10px 30px;
+    opacity: 80%;
+    background-color: white;
+    
+}
+
+h3{
+    font-size: 1.8em;
+}
+
+
+tr, td, th {
+    height: 75px;
+    width: 147px;
+}
+
+.cell-transparent:focus {
+    background-color: transparent;
+
+}
+.green {
+    background-color:green;
+}
+.black{
+    background-color: black;
+}
+.teal{
+    background-color: teal;
+}
+.blue{
+    background-color: blue;
+}
+.navy{
+    background-color: darkblue;
+}
+.lime{
+    background-color: lime;
+}
+.white{
+    background-color: white;
+}
+.purple{
+    background-color: purple;
+}
+.yellow{
+    background-color: yellow;
+}
+.olive{
+    background-color: olive;
+}
+.red{
+    background-color: red;
+}
+.gray{
+    background-color: gray;
+}
+.fuchsia{
+    background-color: fuchsia;
+}
+
+
+.word-teal {
+    color: teal;
+}
+.word-black {
+    color: black;
+}
+.word-blue {
+    color: blue;
+}
+.word-purple {
+    color: purple;
+}
+.word-red {
+    color: red;
+}
+.word-green {
+    color: green;
+}
+.word-navy {
+    color: navy;
+}
+.word-lime {
+    color: lime;
+}
+.word-yellow {
+    color: yellow;
+}
+.word-olive {
+    color: olive;
+}
+.word-aqua {
+   color: aqua;
+}
+.word-silver {
+    color: silver;
+}
+.word-fuchsia {
+    color: fuchsia;
+}
+.word-marron {
+   color:saddlebrown;
+}
+.word-white {
+    color: white;
+}
+.word-gray {
+    color: gray;
+}
