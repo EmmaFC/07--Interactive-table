@@ -245,16 +245,17 @@ button.onclick = function (){
 
 
 
-function renderList() : void {
+function renderList() {
     addList();
     addColors ();
 }
 
-function addColors( : void{
-    const colorsListElement = document.getElementById("colors") as HTMLListElement;
-})
+function addColors(){
+    let colorsListElement = document.getElementById("colors")
+}
 
 colors.forEach(function(color, index) {
     setTimeout (() =>{
-        colorsListElement.innerHTMK += <li>${color}</li>;    })
+        colorsListElement.innerHTMK += <li>${color}</li>
+        })
 })
